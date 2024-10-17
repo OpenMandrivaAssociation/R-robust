@@ -7,7 +7,7 @@ Release:          1
 Summary:          Robust Library
 Group:            Sciences/Mathematics
 License:          GPLv1+
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.4-15.tar.gz
 
 Requires:         R-fit.models R-MASS R-lattice R-robustbase R-rrcov 
